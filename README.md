@@ -1,8 +1,9 @@
 ### How you doing sir ? 🐥
+[Check out my Medium profile](https://medium.com/@raphaelthief)
 
 ## About me 
 
-I have been coding all types of malware for over 10 years for understanding purposes. From this base I became interested in everything that revolves around this subject: reverse engineering, OSINT, pentest, redteam, social engineering, etc...
+I have been coding all types of malware for over 10 years for understanding purposes. From this base I became interested in everything that revolves around this subject : reverse engineering, OSINT, pentest, redteam, social engineering, etc...
 I am currently developing my knowledge in pentesting.
 
 ## My stats 
