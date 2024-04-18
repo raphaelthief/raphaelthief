@@ -1,7 +1,7 @@
 ### How you doing sir ? 🐥
 [Check out my Medium profile](https://medium.com/@raphaelthief)
 
-[Check out my Startme page about CTI & OSINT]([https://medium.com/@raphaelthief](https://start.me/p/kvvGLO/cti-osint))
+[Check out my Startme page about CTI & OSINT](https://start.me/p/kvvGLO/cti-osint)
 
 ## About me 
 
