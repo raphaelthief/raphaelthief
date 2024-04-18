@@ -1,6 +1,8 @@
 ### How you doing sir ? 🐥
 [Check out my Medium profile](https://medium.com/@raphaelthief)
 
+[Check out my Startme page about CTI & OSINT]([https://medium.com/@raphaelthief](https://start.me/p/kvvGLO/cti-osint))
+
 ## About me 
 
 I have been coding all types of malware for over 10 years for understanding purposes. From this base I became interested in everything that revolves around this subject : reverse engineering, OSINT, pentest, redteam, social engineering, etc...
