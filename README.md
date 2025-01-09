@@ -13,7 +13,7 @@ I am currently developing my knowledge in pentesting.
 
 ## My stats 
 
-![Stuub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelthief&show_icons=true&theme=radical)
+![raphaelthief GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelthief&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelthief&layout=compact&theme=radical)
 
 ## Languages and Tools 
