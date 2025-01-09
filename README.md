@@ -3,6 +3,9 @@
 
 [Check out my Startme page about CTI & OSINT](https://start.me/p/kvvGLO/cti-osint)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=raphaelthief&color=blueviolet)
+
 ## About me 
 
 I have been coding all types of malware for over 10 years for understanding purposes. From this base I became interested in everything that revolves around this subject : reverse engineering, OSINT, pentest, redteam, social engineering, etc...
@@ -10,7 +13,8 @@ I am currently developing my knowledge in pentesting.
 
 ## My stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raphaelthief&theme=dark)](https://git.io/streak-stats)
+![Stuub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphaelthief&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelthief&layout=compact&theme=radical)
 
 ## Languages and Tools 
 
